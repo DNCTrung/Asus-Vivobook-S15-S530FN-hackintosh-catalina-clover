@@ -470,7 +470,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 kext-dev-mode=1 keepsyms=1 nv_disable=1 igfxonln=1 alcid=57</string>
+		<string>dart=0 kext-dev-mode=1 keepsyms=1 nv_disable=1 igfxonln=1 alcid=97</string>
 		<key>DefaultVolume</key>
 		<string>Catalina</string>
 		<key>NeverDoRecovery</key>
