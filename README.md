@@ -1,5 +1,5 @@
 
-# Asus Vivobook S15 S53FN
+# Asus Vivobook S15 S530FN
 
 # Detail
 
