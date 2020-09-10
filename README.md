@@ -4,7 +4,7 @@
 # Detail
 
 	Version:	1
-	Date:		07/08/2020
+	Date:		10/09/2020
 	Support:	All BIOS
 	macOS:		Catalina 10.15.6
 	Status:		Stable
