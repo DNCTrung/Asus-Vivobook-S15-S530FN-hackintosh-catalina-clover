@@ -1,12 +1,12 @@
 
-# Asus Vivobook S15 S53FN
+# Asus Vivobook S15 S530FN
 
 # Detail
 
 	Version:	1
-	Date:		07/08/2020
+	Date:		10/09/2020
 	Support:	All BIOS
-	macOS:		Catalina 10.15.5
+	macOS:		Catalina 10.15.6
 	Status:		Stable
 
 # System specification
